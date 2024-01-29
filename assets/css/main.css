@@ -4,6 +4,6 @@
 
 @layer base {
   body {
-    @apply bg-[#F6F9FC]
+    @apply bg-[#F6F9FC] font-poppins
   }
 }

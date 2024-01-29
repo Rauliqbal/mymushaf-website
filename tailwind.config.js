@@ -15,8 +15,12 @@ module.exports = {
            padding: '1rem' 
          },
          colors : {
-            primary: '#30BD9B',
+            primary: '#00ADB5',
             secondary: '#868686'
+         },
+         fontFamily: {
+            poppins : ['Quicksand', 'sans-serif'],
+            arabic : ['Scheherazade New', 'serif']
          }
       },
    },
